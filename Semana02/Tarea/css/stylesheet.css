@@ -1,0 +1,75 @@
+/****************contenedor de todo*******/
+body{
+	/*border: solid pink;*/
+	width: 1280px;
+	height: 1280px;
+	background-color: #070707;
+}
+/****************imagen de fondo*******/
+header{
+	background-image: url(../img/uno.jpg);
+	color: #f1eaea;
+	width: 1200px;
+	height: 500px;
+	margin: auto;
+	margin-bottom: 20px;
+
+}
+/****************texto de arriva*******/
+h1{
+	font-size: 40px;
+	/*border: solid red;*/
+	width: 400px;
+	font-family: 'Amatic SC', cursive;
+	padding-bottom: 2px;	
+}
+/****************todo del primer div*******/
+
+.pri{
+	background-image: url(../img/cinco.jpg);
+	width: 600px;
+	height: 700px;
+	float: left;
+	background-repeat: no-repeat;
+	/*border: solid red;*/
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+	text-align: center;
+
+	
+
+}
+.se{
+	background-image: url(../img/tres.jpg);
+	width: 600px;
+	height: 700px;
+	float: right;
+	background-repeat: no-repeat;
+	/*border: solid blue;*/
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+	text-align: center;
+	
+	
+
+}
+p{
+	border: 10px solid #f1eaea;
+	margin-top: 600px;
+	background-color: #f1eaea;
+	width: 300px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	color: #f1eaea;
+	clear: both;
+	font-family: 'Amatic SC', cursive;
+	padding-top: 20px;
+
+}
+
+
+
+
+
