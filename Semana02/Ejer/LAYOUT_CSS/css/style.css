@@ -1,0 +1,417 @@
+	html, body {
+		height: 100%;
+	}
+	
+	body {
+		/*margin: 0px;
+		padding: 0px;
+		background: #031f4f;
+		font-family: 'Quicksand', sans-serif;
+		font-size: 12pt;
+		font-weight: 400;
+		color: #000000;*/ 
+	}
+	
+	
+	h1, h2, h3 {
+		margin: 0;
+		padding: 0;
+		color: #404040;
+	}
+	
+	p, ol, ul {
+		margin-top: 0;
+	}
+	
+	ol, ul {
+		padding: 0;
+		list-style: none;
+
+	}
+	
+	p {
+		line-height: 180%;
+	}
+	
+	a {
+		color: #004571;
+	}
+	
+	a:hover {
+		text-decoration: none;
+	}
+	
+
+	.container {
+		/*margin: 0px auto;
+		width: 1200px;*/   /* este codigo centraliza a todos los contenedores con esta clase en el centro con el tamaño 1200px de ancho */
+		
+	}
+	
+
+/*********************************************************************************/
+/* Button Style                                                                  */
+/*********************************************************************************/
+
+	.button {
+		background-color: #3D82AB;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		font-family: sans-serif;
+		font-size: 15px;
+		border: 15px solid #3D82AB;
+
+
+
+	}
+	.boton{
+		background-color: #3D82AB;
+		color: white;
+		text-align: center;
+		text-decoration: none;
+		font-family: sans-serif;
+		font-size: 15px;
+		border: 15px solid #3D82AB;
+		margin-left: 65px;
+	}
+
+
+/*********************************************************************************/
+/* Heading Titles                                                                */
+/*********************************************************************************/
+
+	.title {
+
+	}
+	
+	.title h2 {
+		text-align: center;
+
+	}
+	
+
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header-wrapper {
+		/* Aqui es donde va tu imagen de fondo */
+		background-image: url(../images/background.jpg);
+		width: 1200px;
+		height: 300px;
+		margin: auto;
+
+
+	}
+	
+
+/*********************************************************************************/
+/* Logo                                                                          */
+/*********************************************************************************/
+	
+	#logo{
+		padding-left: 70px;
+		text-align: center;
+		font-family: sans-serif;
+		
+	}
+	#logo h1 {
+			
+		width: 300px;
+		background-color: #3D82AB;
+		font-family: sans-serif;
+		font-size: 30px;
+		color: white;
+		text-align: center;
+
+	}
+
+	#logo a {
+		text-decoration: none;
+		color: white;
+		padding-left: 50px;
+		padding-top: 20px;
+		font-family: sans-serif;
+
+	}
+	
+	#logo span {
+		font-family: sans-serif;
+		background-color: #3D82AB;
+		width: 225px;
+		color: white;
+		font-size: 25px;
+		text-align: center;
+
+	}
+
+	#logo span a {
+
+	}
+	
+
+/*********************************************************************************/
+/* Menu                                                                          */
+/*********************************************************************************/
+
+	
+	#menu{
+	
+		width: 700px;
+		text-align: center;
+		padding: 15px;
+		}
+	#menu ul {
+			background-color: #3D82AB;
+			padding-bottom: 15px;
+		
+		
+	}
+	
+	#menu li {
+		display: inline-block;
+	
+	}
+	
+	#menu li a, #menu li span {
+		text-decoration: none;
+		 display: inline-block;
+		 color: white;	
+		 font-family: sans-serif;
+
+
+	}
+
+	
+
+/*********************************************************************************/
+/* Page                                                                          */
+/*********************************************************************************/
+
+	#page-wrapper {
+		/*border: solid blue;*/
+		width: 1000px;
+		padding-left: 125px;
+		color: black;
+	}
+	
+	#page-wrapper .title h2{
+		font-size: 25px;
+		text-align: center;
+		/*border: solid blue;*/
+		color: black;
+		padding-top: 50px;
+		padding-bottom: 30px;
+	}
+
+
+/*********************************************************************************/
+/* Wrapper                                                                       */
+/*********************************************************************************/
+
+	#wrapper {
+		/*border: solid green;*/
+		width: 1280px;
+		padding-bottom: 670px;
+		
+			
+
+	}
+
+
+/*********************************************************************************/
+/* Three Columns                                                                 */
+/*********************************************************************************/
+
+	#three-column {
+			/*border: solid green;*/
+		width: 1000px;
+		padding-left: 155px;
+		padding-bottom: 19px;
+		padding-top: 10px;
+
+	}
+	
+	#three-column h2 {
+		padding-bottom: 20px;
+		font-size: 20px;
+		font-family: sans-serif;
+
+	}
+		
+	#three-column #tbox1, #three-column #tbox2, #three-column #tbox3 {
+		/*border: solid green;*/
+		width: 300px;
+		text-align: center;
+
+	}
+	#tbox1{
+		float: left;
+		margin: 3px;
+		padding-bottom: 40px;
+		text-align: center;
+	}
+	#tbox2{
+		float: left;
+		margin: 3px;
+		padding-bottom: 40px;
+		text-align: center;
+
+	}
+	#tbox3{
+		float: left;
+		margin: 3px;
+		padding-bottom: 40px;
+		text-align: center;
+
+	}
+	
+	#three-column .title {
+
+	}
+	
+	#three-column .title h2 {
+		/*border: solid green;*/
+		width: 300px;
+		text-align: center;
+
+	}
+
+/*********************************************************************************/
+/* Portfolio                                                                     */
+/*********************************************************************************/
+
+	#portafolio{
+		/*border: solid green;*/
+		width: 932px;
+		padding-left: 600px;
+
+		
+	}
+	#portfolio .box {
+		
+
+	}
+	
+	#portfolio h3 {
+		text-align: center;
+		font-family: serif;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		font-size: 20px;
+
+	}
+
+	#portfolio .title {
+		text-align: center;
+		font-family: serif;
+		padding-top: 5px;
+		padding-bottom: 5px;
+
+	}
+
+ 	#portfolio .title h2 {
+
+	}
+
+	.column1, .column2, .column3, .column4 {
+		
+		/*border: solid green;*/
+		width: 233px;
+		float: left;
+
+
+
+	}
+	.box{
+		/*border: solid red;*/
+		width: 230px;
+		margin: 5px;
+		padding-left: 150px;
+	}
+	.column1, .column2, .column3 {
+		
+	}
+	
+	.column4 {
+
+	}
+	.ima{
+		width: 220px;
+
+	}
+	/*********************************************************************************/
+/* parrafos                                                                    */
+/*********************************************************************************/
+	.para{
+		/*border: solid pink;*/
+		padding-bottom: 20px;
+		font-family: sans-serif;
+		text-align: center;
+	}
+	.parra{
+		/*border: solid pink;*/
+		padding-bottom: 20px;
+		font-family: sans-serif;
+		text-align: center;
+
+	}
+/*********************************************************************************/
+/* Copyright                                                                     */
+/*********************************************************************************/
+
+	#copyright {
+		clear: both;
+		/*border: solid purple;*/
+		width: 1280px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		background-color: #07557B;
+		font-family: sans-serif;
+
+	}
+	
+	#copyright p {
+		/*border: solid purple;*/
+		text-align: center;
+		font-family: sans-serif;
+		color: white;
+		font-size: 10px;
+
+	}
+	#copyright ul {
+		/*border: solid purple;*/
+		text-align: center;
+
+	}
+
+
+/*********************************************************************************/
+/* Social Icon Styles                                                            */
+/*********************************************************************************/
+
+	ul.contact li {
+		display: inline-block;
+		margin: 3px;
+
+
+
+	}
+	
+	ul.contact li span {
+
+	}
+	
+	ul.contact li a {
+		text-decoration: none;
+		color: white;
+		
+
+	}
+	
+	ul.contact li a:before {
+		
+
+	}	
