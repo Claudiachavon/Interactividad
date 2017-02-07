@@ -1,0 +1,69 @@
+body{
+	/*border: solid black;*/
+	width: 1280px;
+	height: 1200px;
+	background-color: pink;
+}
+
+.contenedor{
+	/*border: solid yellow;*/
+	/*background-image: url(..img/fondo.png);*/
+}
+header{
+	background-image: url(../img/do.jpg);
+	width: 1280px;
+	height: 300px;
+	margin: auto;
+
+}
+
+.no{
+	width: 1250px;
+	margin: auto;
+
+}
+.iz{
+	/*border: solid red;*/
+	float: left;
+	margin-left: 20px; 
+	margin-top: 20px;
+	margin-bottom: 15px;
+	
+}
+.derecho{
+	/*border: solid green;*/
+	width: 695px;
+	float: right;
+	padding-right: 40px;
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 40px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+.dere{
+	/*border: solid green;*/
+	float: right;
+	margin-right: 20px; 
+	margin-bottom: 20px;
+	
+	
+	
+}
+.izquierdo{
+	/*border: solid green;*/
+	width: 695px;
+	float: left;
+	margin-left: : 30px; 
+	text-align: center;
+	margin-top: 120px;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+footer{
+	background-color: #8CAFD2;
+	clear: both;
+	margin-top: 25px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: white;
+}
