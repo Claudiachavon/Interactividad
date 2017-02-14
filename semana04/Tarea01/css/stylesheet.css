@@ -1,0 +1,100 @@
+body{
+	background: #EAAA00;
+	width: 1280px;
+	/*border: solid red;*/
+
+}
+h1{
+	color: white;
+	text-align: center;
+	width: 1280px;
+	font-family: 'Barrio', cursive;
+	font-size: 70px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+button{
+	text-align: center;
+	border-radius: 8px;
+	border: none;
+	font-size: 20px;
+	background-color: rgba(0,0,0,0.1);
+	font-family: 'Barrio', cursive;
+	margin-left: 250px;
+	margin-top: 20px;
+
+}
+p{
+	width: 1280px;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.uno{
+	float: left;
+	/*border: solid white;*/
+	margin-left: 20px;
+	margin-top: 50px;
+	
+}
+.au{
+	margin-top: 3px;
+	float: left;
+	position: relative;
+	align-items: center;
+}
+.dos{
+	float: right;
+	/*border: solid pink;*/
+	margin-right: 20px;
+	margin-top: 50px;
+	
+}
+.ad{
+	margin-top: 3px;
+	float: left;
+	position: relative;
+	align-items: center;
+}
+.tres{
+	float: left;
+	/*border: solid purple;*/
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.at{
+	margin-top: 3px;
+	float: left;
+	position: relative;
+	align-items: center;
+}
+.cuatro{
+	float: right;
+	/*border: solid yellow;*/
+	margin-right: 20px;
+	margin-top: 50px;
+	
+}
+.ac{
+	margin-top: 3px;
+	float: left;
+	position: relative;
+	align-items: center;
+}
+
+audio{
+	border: solid red;
+	width: 80px;
+}
+footer{
+	clear: both;
+	font-family: 'Open Sans Condensed', sans-serif;
+	width: 1280px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
