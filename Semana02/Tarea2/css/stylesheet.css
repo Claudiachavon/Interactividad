@@ -1,0 +1,144 @@
+#contenedor{
+	width: 1280px;
+	/*border: solid pink;*/
+}
+/**************logo*************/
+.logo{
+	margin: auto;
+	width: 250px;
+	height: 250px;
+	align-items: center;
+	margin-left: 500px;
+}
+/**************navegador*************/
+.navegador
+{
+	list-style: none;
+	overflow: hidden;
+
+}
+.navegador li
+{
+	text-align: center;
+	padding: 40px;
+	}
+nav{
+	text-align: center;
+	width: 700px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 30px;
+	margin-left: 270px;
+
+}
+.navegador li  
+{
+	text-decoration: none;
+	display: inline;
+	font-size: 18px;
+	font-family: 'Josefin Slab', serif;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+
+}
+.navegador li a:hover
+{
+	background: #FD5C92;
+}
+/**************parrafo*************/
+p{
+	clear: both;
+	font-family: 'Josefin Slab', serif;
+	font-size: 30px;
+	width: 1280px;
+	text-align: center;
+	padding-bottom: 50px;
+	margin-top: 50px;
+
+
+}
+/**************img*************/
+.text { 
+	width: 500px; 
+	height:500px; 
+	display:block; 
+	background-image: url(../img/textuno.jpg); 
+	
+} 
+
+	.text:hover { 
+		background-image: url(../img/vuno.jpg); 
+		
+	} 
+	.textdos { 
+	width: 500px; 
+	height:500px; 
+	display:block; 
+	background-image: url(../img/textdos.jpg);
+	
+} 
+	.textdos:hover { 
+		background-image: url(../img/vdos.jpg); 
+		
+	} 
+	.texttres { 
+	width: 500px; 
+	height:500px; 
+	display:block; 
+	background-image: url(../img/texttres.jpg);
+	
+} 
+	.texttres:hover { 
+		background-image: url(../img/vtres.jpg);
+		
+	} 
+	.textcuatro { 
+	width: 500px; 
+	height:500px; 
+	display:block; 
+	background-image: url(../img/textcuatro.jpg); 
+	
+} 
+	.textcuatro:hover { 
+		background-image: url(../img/vcuatro.jpg);
+
+	} 
+	.iz{
+		float: left;
+		padding-left: 60px;
+		padding-top: 2px;
+	}
+	.de{
+		float: right;
+		padding-right: 60px;
+		padding-top: 2px;
+	}
+	/**************boton*************/
+	button{
+		text-decoration: none;
+		font-size: 20px;
+		padding-top: 6px;
+		padding-bottom: 5px;
+		margin-left: 200px;
+		margin-top: 3px;
+		margin-bottom: 50px;
+		text-align: center;
+		background-color: #FF8C89;
+		border: none;
+		font-family: 'Josefin Slab', serif;
+
+	}
+	button a:hover{
+		background: #73C5E1;
+	}
+	/**************futel*************/
+	footer{
+		clear: both;
+		padding-bottom: 10px;
+		width: 1280px;
+		text-align: center;
+		font-family: 'Josefin Slab', serif;
+	}
