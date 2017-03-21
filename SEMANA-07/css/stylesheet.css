@@ -1,0 +1,18 @@
+body{
+	background-color: #fdd4dc;
+	color: white;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+.fem{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+}
+.ache{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	font-size: 40px;
+}
