@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario HTML</title>
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+  <link rel="icon" type="text/css" href="img/ico.ico">
+</head>
+<body>
+<img class="ache" src="img/xoxo.gif">
+<p class="te">Regístrate</p>
+	<form id="myform">
+		<label>Nombre</label><br>
+		<input name="name" type="text" placeholder="Nombre completo">
+		
+		<br>
+
+		<label>Apellido</label><br>
+		<input name="id" id="id_number" type="text">
+
+		<br>
+
+		<label>E-mail</label><br>
+		<input name="email" type="text" placeholder="ejemplo@ejemplo.com">
+
+		<br>
+
+		<label>Tel&eacute;fono</label><br>
+		<input name="phone" type="text" id="phone_number">
+		<br>
+		<label>Genero</label>
+		<br>
+		<input type="radio" name="gender" value="female">Mujer
+		<br>
+        <input type="radio" name="gender" value="male">Hombre
+		<br>
+		<label>¿Por qué quieres ir a XOXO?</label><br>
+		<textarea name="message" id="" cols="30" rows="10"></textarea>
+		<br>
+		<div class="form-group"> 
+  <label class="col-md-4 control-label">País</label>
+    <div class="col-md-4 selectContainer">
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+    <select name="state" class="form-control selectpicker" >
+      <option value=" " >Selecciona tu país</option>
+      <option>Alabama</option>
+      <option>Alaska</option>
+      <option >Arizona</option>
+      <option >Arkansas</option>
+      <option >California</option>
+      <option >Colorado</option>
+      <option >Connecticut</option>
+      <option >Delaware</option>
+      <option >District of Columbia</option>
+      <option> Florida</option>
+      <option >Georgia</option>
+      <option >Hawaii</option>
+      <option >daho</option>
+      <option >Illinois</option>
+      <option >Indiana</option>
+      <option >Iowa</option>
+      <option> Kansas</option>
+      <option >Kentucky</option>
+      <option >Louisiana</option>
+      <option>Maine</option>
+      <option >Maryland</option>
+      <option> Mass</option>
+      <option >Michigan</option>
+      <option >Minnesota</option>
+      <option>Mississippi</option>
+      <option>Missouri</option>
+      <option>Montana</option>
+      <option>Nebraska</option>
+      <option>Nevada</option>
+      <option>New Hampshire</option>
+      <option>New Jersey</option>
+      <option>New Mexico</option>
+      <option>New York</option>
+      <option>North Carolina</option>
+      <option>North Dakota</option>
+      <option>Ohio</option>
+      <option>Oklahoma</option>
+      <option>Oregon</option>
+      <option>Pennsylvania</option>
+      <option>Rhode Island</option>
+      <option>South Carolina</option>
+      <option>South Dakota</option>
+      <option>Tennessee</option>
+      <option>Texas</option>
+      <option> Uttah</option>
+      <option>Vermont</option>
+      <option>Virginia</option>
+      <option >Washington</option>
+      <option >West Virginia</option>
+      <option>Wisconsin</option>
+      <option >Wyoming</option>
+    </select>
+  </div>
+</div>
+</div>
+<button class="bot" form="myform" type="submit" class="send"> <img src="img/enviar.gif">
+</button>
+	</form>
+
+<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="js/jquery.maskedinput.js" type="text/javascript"></script>
+<script src="js/jquery.validate.min.js" type="text/javascript"></script>
+<script src="js/script.js" type="text/javascript"></script>
+
+</body>
+</html>

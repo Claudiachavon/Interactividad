@@ -1,0 +1,81 @@
+body{
+font-family: 'PT Sans', sans-serif;
+background-color: black;
+}
+#estev{
+	position: fixed;
+	z-index: -1000;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+}
+.gana{
+	color: #00b9ec;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 20px;
+}
+.g{
+	color: #00b9ec;
+	text-align: center;
+	margin-top: 20px;
+}
+.regis{
+	margin-left: 550px;
+	margin-top: 20px;
+}
+#myform label.error {
+			  color: #fe592d;
+			  font-size: 11px;
+			  text-transform: lowercase;
+			  position: relative;
+			  font-family:'PT Sans', sans-serif;
+			}
+.te{
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+	margin-top: 35px;
+	font-size: 45px;
+	text-align: center;
+	font-weight: bold;
+}
+#myform{
+	color: #02d8d2;
+	margin-top: 35px;
+	font-size: 20px;
+	font-family:'PT Sans', sans-serif;
+	text-align: center;
+}
+.esta{
+	color: white;
+}
+.bot{
+	background-color: black;
+ border: none;
+ border-radius: 5px;
+ width: 200px;
+ font-size: 40px;
+ margin-top: 20px;
+}
+.te{
+	color: #d73bcf;
+	font-family: 'PT Sans', sans-serif;
+}
+label{
+	margin-top: 50px;
+}
+#demo{
+	color: #d73bcf;
+	text-align: center;
+  font-size: 35px;
+  font-family: 'PT Sans', sans-serif;
+}
+.contador{
+	color: #d73bcf;
+	text-align: center;
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+}
+
