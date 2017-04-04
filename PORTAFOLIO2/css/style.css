@@ -1,0 +1,210 @@
+.na ul {
+    list-style: none;
+    overflow: hidden;
+    background-color: white;
+    width: 500px;
+    margin-left: 370px;
+    font-family: 'Amatic SC', cursive;
+}
+.na li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 50px;
+     font-size: 20px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     color: black;
+     margin-top: 30px;
+     font-size: 40px;
+     font-weight: bold;
+      
+}
+.na li {
+    display: inline;
+    float: left;
+}
+.na li a:hover {
+    color: #ff66a4;
+}
+.yo{
+    margin-left: 550px;
+}
+.parra{
+    font-size: 35px;
+    font-family: 'Amatic SC', cursive;
+    width: 550px;
+    margin-left: 370px;
+    margin-top: 40px;
+    color: #ff66a4;
+     text-align: center;
+}
+.foteruno{
+    margin-left: 40px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.ins{
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+.form-control{
+    background-color: #e0e0e0;
+    color: white;
+    width: 300px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 15px;
+}
+#boton{
+    background-color: #ff66a4;
+    border: none;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.derechos{
+     font-family: 'Amatic SC', cursive;
+      margin-left: 575px;
+}
+.lista{
+    list-style: none;
+     margin-left: 490px;
+}
+.lista li{
+display: inline-block;
+}
+.te{
+ font-family: 'Amatic SC', cursive;
+ margin-left: 10px;
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+}
+.sig{
+   font-family: 'Amatic SC', cursive;
+ margin-left: 30px;
+ font-weight: bold;
+ text-align: center;  
+}
+.listas{
+    list-style: none;
+     margin-left: 420px;
+}
+.listas li{
+display: inline-block;
+}
+.listauno{
+    list-style: none;
+     margin-left: 475px;
+}
+.listauno li{
+display: inline-block;
+}
+.derechouno{
+   margin-left: 550px; 
+   font-family: 'Amatic SC', cursive;
+}
+.tes{
+ font-family: 'Amatic SC', cursive;
+ margin-left: 10px;
+ font-size: 30px;
+ font-weight: bold;
+ text-align: center;
+}
+.sigs{
+   font-family: 'Amatic SC', cursive;
+ margin-left: 15px;
+ font-weight: bold;
+ text-align: center;  
+}
+.derecho{
+     font-family: 'Amatic SC', cursive;
+      margin-left: 500px;
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+#gallery {
+    margin-left: 100px;
+  padding: 4px 0 0 0;
+}
+
+#gallery img {
+  margin: 8px;
+  width: 214px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#gallery img:hover {
+  margin: 8px;
+  opacity:  0.10;
+}
+
+#buttons button {
+  border: none;
+  padding: 8px;
+  background-color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  margin-left: 83px;
+}
+
+#buttons button.active {
+  background-color: #ff66a4;
+  color: black;
+ font-family: 'Amatic SC', cursive;
+ font-size: 30px;
+
+}
+
+#buttons {
+  margin: 8px;
+  padding-bottom: 8px;
+}
+
+button:hover{
+  color: black;
+}
+.volver{
+   font-family: 'Amatic SC', cursive; 
+   font-size: 50px;
+   text-decoration: none;
+   text-align: center;
+   color: black;
+   margin-left: 560px;
+}
+.volver a{
+    text-decoration: none;
+    color: #ff66a4;
+}
+.volver :hover{
+    text-decoration: none;
+    color: #ff66a4;
+    background-color: #ff66a4;
+}
+
+.bas{
+   font-family: 'Amatic SC', cursive;   
+   color: #ff66a4;
+   text-align: center;
+   font-weight: bold;
+   font-size: 40px;
+}
+.baba{
+   font-family: 'Amatic SC', cursive; 
+   text-align: center;
+   margin-left: 20px;
+   font-size: 30px;
+}
+.col-sm-4{
+    margin-left: 60px; 
+}
+.col-sm-8{
+    width: 600px;
+}
+.tiene{
+    margin-left: 100px;
+}
