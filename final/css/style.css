@@ -1,0 +1,794 @@
+.bo{
+  background-image: url(../img/01_nav.png);
+  width: 1000px;
+  background-repeat: no-repeat;
+}
+.noso{
+  background-image: url(../img/02_nav.png);
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.notres{
+  background-image: url(../img/02_nav.png);
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.bot{
+  font-size: 50px;
+      font-family: 'Baloo', cursive;
+      border: none;
+      margin-bottom: 50px;
+      margin-left: 295px;
+      background-color: white;
+}
+.bot a{
+  background-color: #fcd000;
+  color: #ef4f37;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.bot :hover{
+    color: #fcd000;
+    background-color: #ef4f37;
+    border-radius: 5px;
+}
+.imagencel{
+  width: 300px;
+}
+.dowuno{
+  width: 500px;
+  float: right;
+  margin-top: 100px;
+}
+.dowdos{
+  width: 430px;
+  margin-left: 65px;
+}
+.detexto{
+width: 500px;
+float: right;
+font-family: 'Baloo', cursive;
+color: #ef4f37;
+font-size: 50px;
+text-align: center;
+
+}
+.dedostexto{
+  width: 500px;
+  float: right;
+font-family: 'Didact Gothic', sans-serif;
+  color: #ef4f37;
+  font-size: 20px;
+  text-align: center;
+}
+.detrestexto{
+  width: 500px;
+  float: right;
+  color: #ef4f37;
+font-family: 'Baloo', cursive;
+  font-size: 25px;
+  text-align: center;
+}
+.lasegunda{
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.col-sm-3{
+  width: 300px;
+}
+.col-sm-6{
+  width: 550px;
+}
+/******************************************** HOME ***************************************/
+.log{
+  margin-left: 390px;
+  margin-top: 30px;
+    width: 500px;
+  }
+.na ul {
+    list-style: none;
+    overflow: hidden;
+    width: 500px;
+    margin-left: 450px;
+    /*background-color: #fdc200;*/
+    font-family: 'Baloo', cursive;
+    font-size: 20px;
+}
+.na li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 30px;
+     /*font-size: 20px;*/
+    /*padding-top: 10px;*/
+     /*padding-bottom: 10px;*/
+     color: #ef4f37;
+     /*margin-top: 30px;*/
+     font-size: 25px;
+     font-weight: bold;
+     font-family: 'Baloo', cursive;
+      
+}
+.na li {
+    display: inline;
+    float: left;
+}
+.na li a:hover {
+    color: #fcd000;
+    background-color: #ef4f37;
+    border-radius: 20px; 
+}
+/******************************************** NAV DOS ***************************************/
+.logdos{
+  margin-left: 390px;
+  margin-top: 30px;
+  width: 500px;
+}
+.nados ul {
+    list-style: none;
+    overflow: hidden;
+    width: 500px;
+    margin-left: 450px;
+    /*background-color: #fdc200;*/
+    font-family: 'Baloo', cursive;
+    font-size: 20px;
+}
+.nados li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 30px;
+     /*font-size: 20px;*/
+    /*padding-top: 10px;*/
+     /*padding-bottom: 10px;*/
+     color: #fcd000;
+     /*margin-top: 30px;*/
+     font-size: 25px;
+     font-weight: bold;
+     font-family: 'Baloo', cursive;
+      
+}
+.nados li {
+    display: inline;
+    float: left;
+}
+.nados li a:hover {
+    color: #ef4f37;
+    background-color: #fcd000;
+    border-radius: 20px; 
+}
+.que{
+margin-left: 350px;
+  color: #ef4f37;
+  margin-top: 200px;
+  font-family: 'Baloo', cursive;
+  font-size: 60px;
+}
+/******************************************** NAV TRES ***************************************/
+.logdos{
+  margin-left: 400px;
+  margin-top: 30px;
+  width: 500px;
+}
+.natres ul {
+    list-style: none;
+    overflow: hidden;
+    width: 500px;
+    margin-left: 450px;
+    /*background-color: #fdc200;*/
+    font-family: 'Baloo', cursive;
+    font-size: 20px;
+}
+.natres li a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 30px;
+     /*font-size: 20px;*/
+    /*padding-top: 10px;*/
+     /*padding-bottom: 10px;*/
+     color: #fcd000;
+     /*margin-top: 30px;*/
+     font-size: 25px;
+     font-weight: bold;
+     font-family: 'Baloo', cursive;
+      
+}
+.natres li {
+    display: inline;
+    float: left;
+}
+.natres li a:hover {
+    color: #ef4f37;
+    background-color: #fcd000;
+    border-radius: 20px; 
+}
+.que{
+margin-left: 350px;
+  color: #ef4f37;
+  margin-top: 200px;
+  font-family: 'Baloo', cursive;
+  font-size: 60px;
+}
+/******************************************** texto colum ***************************************/
+.row{
+  margin-left: 250px;
+}
+.pulsa{
+  width: 200px;
+}
+.app{
+  width: 200px;
+}
+.prim{
+  font-size: 25px;
+  margin-top: 35px;
+  color: #ef4f37;
+}
+.seg{
+  font-size: 25px;
+  margin-top: 35px;
+  color: #ef4f37;
+}
+.col-sm-4{
+  width: 300px;
+  font-family: 'Didact Gothic', sans-serif;
+  margin-left: 30px;
+}
+.col-sm-8{
+  width: 400px;
+  font-family: 'Didact Gothic', sans-serif;
+}
+/******************************************** FOOTER uno ***************************************/
+.ins{
+  color: black;
+   font-family: 'Baloo', cursive;
+   font-size: 23px;
+}
+.form-control{
+  width: 290px;
+  background-color: #fcd000;
+  margin-bottom: 15px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+.sig{
+   font-family: 'Baloo', cursive;
+   color: black;
+}
+#boton{
+  border: none;
+  color: black; 
+  background-color: #fcd000;
+  border-radius: 5px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+.foteruno{
+    margin-left: 40px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.derechos{
+ color: #fcd000;
+ text-align: center;
+  font-family: 'Baloo', cursive;
+}
+/******************************************** FOOTER DOS ***************************************/
+.insdos{
+  color: black;
+   font-family: 'Baloo', cursive;
+   font-size: 23px;
+}
+.form-control{
+  width: 290px;
+  background-color: #ef4f37;
+  margin-bottom: 15px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+.sigdos{
+   font-family: 'Baloo', cursive;
+   color: black;
+}
+#botondos{
+  border: none;
+  color: black; 
+  background-color: #ef4f37;
+  border-radius: 5px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+.foterdos{
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.derechosdos{
+ color: #ef4f37;
+ text-align: center;
+  font-family: 'Baloo', cursive;
+}
+/******************************************** FOOTER TRES ***************************************/
+.instres{
+  color: black;
+   font-family: 'Baloo', cursive;
+   font-size: 23px;
+}
+.sigtres{
+   font-family: 'Baloo', cursive;
+   color: black;
+}
+#botontres{
+  border: none;
+  color: black; 
+  background-color: #ef4f37;
+  border-radius: 5px;
+   font-family: 'Didact Gothic', sans-serif;
+}
+.fotertres{
+  padding-top: 650px;
+    margin-left: 35px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    float: none;
+}
+.derechostres{
+ color: #ef4f37;
+ text-align: center;
+  font-family: 'Baloo', cursive;
+}
+/******************************************** CARRUSEL ***************************************/
+.container{
+  margin-top: 40px;
+  margin-left: 40px;
+}
+  .carousel-control.left
+      {
+        background: none;
+      }
+      .carousel-control.right
+      {
+        background: none;
+      }
+
+      .carousel-control
+      {
+        position: absolute;
+        top: 45%;
+        bottom: 0;
+        left: 0;
+        width: 15%;
+        font-size: auto;
+        color: #fcd000;
+        text-align: center;
+        opacity: 1;
+        text-shadow: none;
+      }
+      .carousel-control:hover
+      {
+        color: #000;
+      }
+      .carousel-indicators
+      {
+        bottom: -50px;
+      }
+      .carousel-indicators li
+      {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        margin: 1px;
+        text-indent: -999px;
+        cursor: pointer;
+        background-color: #000\9;
+        background-color: rgba(0,0,0,0);
+        border: 1px solid #ef4f37;
+        border-radius: 50%;
+      }
+      .carousel-indicators .active
+      {
+        width: 12px;
+        height: 12px;
+        margin: 0;
+        background-color: #fcd000;
+      }
+      /******************************************** NOSOTROS ***************************************/
+      .textouno{
+        width: 550px;
+        margin-top: 190px;
+        margin-left: 145px;
+      }
+      .carauno{
+        width: 350px;
+        float: right;
+        margin-top: 233px;
+        margin-right: 160px;
+      }
+     .bab{
+      width: 1000px;
+      margin-left: 140px;
+     }
+     .como{
+      text-align: center;
+       font-family: 'Baloo', cursive;
+       font-size: 40px;
+       color: #fcd000;
+     }
+     .solo{
+      text-align: center;
+      font-family: 'Didact Gothic', sans-serif;
+      font-size: 29px;
+      color: #ef4f37;
+     }
+     .sol{
+      list-style: none;
+      text-align: center;
+      font-family: 'Didact Gothic', sans-serif;
+      font-size: 25px;
+      color: #ef4f37;
+      font-weight: bold;
+
+     }
+     .sol li{
+      display: inline-block;
+     }
+     .ama{
+      margin-right: 25px;
+     }
+    .conuno{
+      text-align: center;
+      font-size: 15px;
+       font-family: 'Didact Gothic', sans-serif;
+       margin-left: 90px;
+       margin-top: 100px;
+       color: #ef4f37;
+    }
+    .condos{
+      text-align: center;
+      font-size: 18px;
+       font-family: 'Didact Gothic', sans-serif;
+       margin-left: 250px;
+       color: #ef4f37;
+    }
+    .titu{
+      font-family: 'Baloo', cursive;
+      background-color: #ef4f37;
+      color: #fcd000;
+      width: 900px;
+      margin-left: 110px;
+      border-radius: 5px;
+
+    }
+     .titd{
+      font-family: 'Baloo', cursive;
+      background-color: #ef4f37;
+      color: #fcd000;
+      width: 900px; 
+      text-align: center;
+      margin-left: -50px;
+      border-radius: 5px;
+    }
+    .col-xs-6{
+      width: 250px;
+    }
+    .familiaimagen{
+      float: none;
+      margin-top: 90px;
+      margin-right: 5px;
+      margin-left: 380px;
+    }
+    .fam{
+ font-family: 'Baloo', cursive;
+      margin-left: 260px;
+      color: #fcd000;
+      font-weight: bold;
+      font-size: 40px;
+    }
+    hr{
+      float: none;
+    }
+
+
+            /******************************************** TIENDA ***************************************/
+            .containertres{
+              margin-left: 10px;
+              margin-top: 100px;
+              text-align: center;
+            }
+            ul.galeria, ul.galeria > li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.galeria {
+  
+}
+
+ul.galeria > li {
+    float: left;
+    margin-left: 75px;
+}
+@media(max-width:639px){
+    ul.galeria > li {
+        width: 50%;
+    }
+}
+@media(min-width:640px){
+    ul.galeria > li {
+        width: 33.33333333333333%;
+    }
+}
+@media(min-width:768px){
+    ul.galeria > li {
+        width: 33.33333333333333%;
+    }
+}
+@media(min-width:992px){
+    ul.galeria > li {
+        width: 25%;
+    }
+}
+@media(min-width:1200px){
+    ul.galeria > li {
+        width: 25%;
+    }
+}
+
+
+ul.galeria > li img {
+    width: 100%;
+}
+
+div.rowtres {
+}
+.trestres{
+  border: none;
+  background-color: #fcd000;
+  color: #ef4f37;
+  font-family: 'Baloo', cursive;
+  font-size: 30px;
+}
+.trestres a{
+  color: #ef4f37;
+}
+.combo{
+  text-decoration: none;
+  color: #ef4f37;
+     font-family: 'Baloo', cursive;
+
+}
+.combo a{
+  text-decoration: none;
+}
+.papa{
+  color: black;
+}
+a:link{
+  text-decoration: none;
+}
+/******************************************** TIENDA CARRUSEL ***************************************/
+.container{
+  margin-top: 190px;
+}
+.carousel-inner .item img,
+  .carousel-inner .item a img {
+      margin: auto;
+  }
+  .left carousel-control{
+    color: #ef4f37;
+  }
+            /******************************************* MODALS **************************************************/
+@media screen and (max-width: 767px) {
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all .25s ease-out;
+         -o-transition: all .25s ease-out;
+            transition: all .25s ease-out;
+  }
+
+  .row-offcanvas-right {
+    right: 0;
+  }
+
+  .row-offcanvas-left {
+    left: 0;
+  }
+
+
+  .row-offcanvas-right
+  .sidebar-offcanvas {
+     /* 6 columns */
+  }
+
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-right.active {
+    right: 50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left.active {
+    left: 50%; /* 6 columns */
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 50%; /* 6 columns */
+  }
+}
+
+/*.modal-content{
+
+  border-style: none;
+  border-radius: 0 0 0 0;
+  border-bottom: 10px solid  #000;
+  border-top: 3px solid  #000;
+  border-left: 3px solid  #000;
+  border-right: 3px solid  #000;
+}*/
+
+span{
+  color: #000;
+}
+
+#img3 {
+  margin-left: 6%;
+  margin-right: auto;
+  margin-top: 6%;
+  /*box-shadow: 0 0 0 2px #000;
+  border-bottom: 10px solid  #000;*/
+  cursor: pointer;
+
+}
+
+#img33{
+  margin-left: 4%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+#img34{
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+#img35{
+  margin-left: 40%;
+}
+
+#img36{
+  margin-left: 38%;
+}
+
+h5{
+  margin-top: 7%;
+  margin-bottom: 7%;
+  text-align: center;
+}
+
+#p01{
+  margin-top: 7%;
+  margin-bottom: 7%;
+  margin-left: 7%;
+}
+
+#p04{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+
+      /******************************************** FOOTER ***************************************/
+      @media screen and (max-width: 767px) {
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all .25s ease-out;
+         -o-transition: all .25s ease-out;
+            transition: all .25s ease-out;
+  }
+
+  .row-offcanvas-right {
+    right: 0;
+  }
+
+  .row-offcanvas-left {
+    left: 0;
+  }
+
+
+  .row-offcanvas-right
+  .sidebar-offcanvas {
+     /* 6 columns */
+  }
+
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-right.active {
+    right: 50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left.active {
+    left: 50%; /* 6 columns */
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 50%; /* 6 columns */
+  }
+}
+
+/*.modal-content{
+
+  border-style: none;
+  border-radius: 0 0 0 0;
+  border-bottom: 10px solid  #000;
+  border-top: 3px solid  #000;
+  border-left: 3px solid  #000;
+  border-right: 3px solid  #000;
+}*/
+
+span{
+  color: #000;
+}
+
+#img3 {
+  margin-left: 6%;
+  margin-right: auto;
+  margin-top: 6%;
+  /*box-shadow: 0 0 0 2px #000;
+  border-bottom: 10px solid  #000;*/
+  cursor: pointer;
+
+}
+
+#img33{
+  margin-left: 4%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+#img34{
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+#img35{
+  margin-left: 40%;
+}
+
+#img36{
+  margin-left: 38%;
+}
+
+h5{
+  margin-top: 7%;
+  margin-bottom: 7%;
+  text-align: center;
+}
+
+#p01{
+  margin-top: 7%;
+  margin-bottom: 7%;
+  margin-left: 7%;
+}
+
+#p04{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 6%;
+  margin-right: 6%;
+}
+/******************************************** redes sociales ***************************************/
+.lista{
+    list-style: none;
+}
+.lista li{
+display: inline-block;
+}
